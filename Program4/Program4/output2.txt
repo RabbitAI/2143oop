@@ -1,0 +1,33 @@
+Rachel Vetter and Christian Douglas
+CMPS 2143 - Dr. Stringfellow
+Program 4: Matrices
+
+Results of addition: 
+10 10
+10 10
+10 10
+
+This matrix is not symmetric.
+Transposed matrix:
+
+10 10 10
+10 10 10
+
+Results of multiplication: 
+
+This matrix is symmetric.
+Transposed matrix:
+
+
+Results of meet: 
+
+This matrix is symmetric.
+Transposed matrix:
+
+
+Results of join: 
+
+This matrix is symmetric.
+Transposed matrix:
+
+
