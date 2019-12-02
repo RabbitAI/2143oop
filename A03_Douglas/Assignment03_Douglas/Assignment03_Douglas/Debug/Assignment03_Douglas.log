@@ -1,7 +1,0 @@
-﻿  Assignment03_Douglas.cpp
-  Cipher.cpp
-c:\users\douglas\source\repos\assignment03_douglas\assignment03_douglas\cipher.cpp(66): warning C4018: '<': signed/unsigned mismatch
-c:\users\douglas\source\repos\assignment03_douglas\assignment03_douglas\cipher.cpp(84): warning C4018: '<': signed/unsigned mismatch
-  RootCrypt.cpp
-  Generating Code...
-  Assignment03_Douglas.vcxproj -> C:\Users\Douglas\source\repos\Assignment03_Douglas\Debug\Assignment03_Douglas.exe
